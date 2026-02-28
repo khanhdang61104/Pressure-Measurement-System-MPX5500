@@ -31,4 +31,5 @@ This project focuses on designing and simulating a high-precision pressure measu
 
 ## Results
 The simulation results achieved a near 1% error rate, successfully mapping the 0-500kPa range to a digital-friendly format, ready for real-world hardware implementation.
-[🎥 Xem video demo hệ thống tại đây]([link-google-drive-cua-ban](https://drive.google.com/file/d/1bqTe8eYmdHC43heR7EktlxG5tiRI9o3g/view?usp=drive_link))
+
+🎥 [Xem video demo hệ thống tại đây](https://drive.google.com/file/d/1bqTe8eYmdHC43heR7EktlxG5tiRI9o3g/view?usp=drive_link)
